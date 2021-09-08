@@ -7,9 +7,10 @@ body{
 .container{
     overflow: auto;
     max-height: 600px;
-    max-width: 1500px;
+    max-width: 2500px;
     border-radius: 5px;
     border: 1px solid rgba(0, 0, 0, 0.4);
+    margin-left: 12px;
 
 }
 .title{
