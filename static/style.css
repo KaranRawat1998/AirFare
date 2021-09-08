@@ -9,6 +9,7 @@ body{
     max-width: 1500px;
     border-radius: 5px;
     border: 1px solid rgba(0, 0, 0, 0.4);
+    margin: 15px auto;
 
 }
 .title{
