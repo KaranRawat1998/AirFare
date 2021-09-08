@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,500,300,700);
 body{
   display: inline-block;
-  background: linear-gradient(to right, #b176f5, #1ce3f5)
+  background: linear-gradient(to right, #b176f5, #1ce3f5);
   text-align: center;
 }
 .container{
@@ -10,7 +10,6 @@ body{
     max-width: 1500px;
     border-radius: 5px;
     border: 1px solid rgba(0, 0, 0, 0.4);
-    margin: 15px auto;
 
 }
 .title{
