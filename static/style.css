@@ -2,6 +2,7 @@
 body{
   display: inline-block;
   background: linear-gradient(to right, #b176f5, #1ce3f5)
+  text-align: center;
 }
 .container{
     overflow: auto;
