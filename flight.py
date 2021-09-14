@@ -5,6 +5,7 @@ import joblib
 import pickle
 import pandas as pd
 import logging
+from multiprocessing import Process
 from DBconnection.data import Connector
 
 app = Flask(__name__)
@@ -371,3 +372,6 @@ def retrieve():
 
 if __name__ == "__main__":
     app.run(debug=True)
+    p=Process(target=retrieve)
+    p.start()
+    p.join()
