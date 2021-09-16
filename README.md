@@ -13,7 +13,7 @@ The Flight Fare Prediction predict the flight price using regression based Machi
 * [Installation](#installation)
 * [Contributing](#contributing)
 * [Deployment](#deployment)
-* [Technologies Used](#technologiesused)
+* [Technologies Used](#technologies-used)
 
 ## Demo
 [(Back to top)](#table-of-contents)
