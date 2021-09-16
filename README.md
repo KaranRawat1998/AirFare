@@ -5,6 +5,15 @@ Nowadays, airline ticket prices can vary dynamically for the same flight. Custom
 
 The Flight Fare Prediction predict the flight price using regression based Machine Learning algorithms and helps users look for optimal time and prices to book flight tickets.
 
+# Table of contents
+* [Air Fare](#air-fare)
+* [Demo](#demo)
+* [Table of contents](#table-of-contents)
+* [Dataset](#dataset)
+* [Installation](#installation)
+* [Contributing](#contributing)
+* [Deployment](#deployment)
+* [Technologies Used](#technologiesused)
 
 ## Demo
 [(Back to top)](#table-of-contents)
@@ -49,10 +58,6 @@ install necessary libraries in yourenvname
 ```
 Now you are good to run the python scripts and ipynb files
 
-
-
-
-  
 ## Contributing
 [(Back to top)](#table-of-contents)
 
@@ -133,6 +138,11 @@ To deploy this project on aws cloud
 [(Back to top)](#table-of-contents)
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
-
-[<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org) [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/) 
+[<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) 
+[<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org) 
+[<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/)
+[<img target="_blank" src="https://miro.medium.com/max/792/1*lJ32Bl-lHWmNMUSiSq17gQ.png" width=170>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img target="_blank" src="https://prnewsjournal.com/wp-content/uploads/2020/11/aws-logo.png" width=170>](https://aws.amazon.com/)
+[<img target="_blank" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_bf0fb4cb7fe948c42f37ded73895638f/salesforce-heroku.png" width=170>](https://en.wikipedia.org/wiki/Heroku)
+[<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/1200px-Cassandra_logo.svg.png" width=170>](https://cassandra.apache.org/_/index.html)
 
