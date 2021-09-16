@@ -26,7 +26,7 @@ Database: https://flight-price-1.herokuapp.com/Database
 
 [![](https://i.imgur.com/QWJNepK.png?1)](https://flight-price-1.herokuapp.com/Database)
 
-AWS cloud : http://ec2-65-1-133-122.ap-south-1.compute.amazonaws.com:8080/
+AWS cloud : http://ec2-13-232-142-158.ap-south-1.compute.amazonaws.com:8080/
 
 ## Dataset
 [(Back to top)](#table-of-contents)
