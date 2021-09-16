@@ -144,3 +144,4 @@ To deploy this project on aws cloud
 [<img target="_blank" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_bf0fb4cb7fe948c42f37ded73895638f/salesforce-heroku.png" width=170>](https://en.wikipedia.org/wiki/Heroku)
 [<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/1200px-Cassandra_logo.svg.png" width=170>](https://cassandra.apache.org/_/index.html)
 
+If u liked the Repo please do give it a star ⭐
